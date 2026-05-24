@@ -1,5 +1,6 @@
 package src.main.java;
 
+int angkaTidakDipakai=100;
 public class Counter {
 
 	private int count;

@@ -40,3 +40,16 @@ public class CounterTest {
 	}
 
 }
+
+public class Test { 
+	public void test(){
+
+		int x=1;
+		int y=2;
+		int z=x*y;
+
+		if(z==3){
+			System.out.println("hasil");
+		}
+	}
+}
